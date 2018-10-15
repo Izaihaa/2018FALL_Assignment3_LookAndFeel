@@ -126,11 +126,14 @@ body {
     color: white;
 }
 
-.hamburgermenu 
+
+.hamburgermenu
+{
+.hamburgermenu1bar
 {
     width: 35px;
     height: 5px;
     background-color: white;
     margin: 6px 0;
 }
-
+}
